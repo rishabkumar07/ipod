@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/ipod/static/css/main.0ba77ea8.chunk.css",
-    "main.js": "/ipod/static/js/main.8fb77585.chunk.js",
-    "main.js.map": "/ipod/static/js/main.8fb77585.chunk.js.map",
+    "main.css": "/ipod/static/css/main.cb3fd9d6.chunk.css",
+    "main.js": "/ipod/static/js/main.083ed042.chunk.js",
+    "main.js.map": "/ipod/static/js/main.083ed042.chunk.js.map",
     "runtime-main.js": "/ipod/static/js/runtime-main.59161aa3.js",
     "runtime-main.js.map": "/ipod/static/js/runtime-main.59161aa3.js.map",
-    "static/js/2.82643220.chunk.js": "/ipod/static/js/2.82643220.chunk.js",
-    "static/js/2.82643220.chunk.js.map": "/ipod/static/js/2.82643220.chunk.js.map",
+    "static/js/2.2e951658.chunk.js": "/ipod/static/js/2.2e951658.chunk.js",
+    "static/js/2.2e951658.chunk.js.map": "/ipod/static/js/2.2e951658.chunk.js.map",
     "index.html": "/ipod/index.html",
-    "precache-manifest.e3c8ff03a246779aa5957fcc332699e8.js": "/ipod/precache-manifest.e3c8ff03a246779aa5957fcc332699e8.js",
+    "precache-manifest.3f08d6c380d65bc25404940cba5a50d2.js": "/ipod/precache-manifest.3f08d6c380d65bc25404940cba5a50d2.js",
     "service-worker.js": "/ipod/service-worker.js",
-    "static/css/main.0ba77ea8.chunk.css.map": "/ipod/static/css/main.0ba77ea8.chunk.css.map",
-    "static/js/2.82643220.chunk.js.LICENSE.txt": "/ipod/static/js/2.82643220.chunk.js.LICENSE.txt"
+    "static/css/main.cb3fd9d6.chunk.css.map": "/ipod/static/css/main.cb3fd9d6.chunk.css.map",
+    "static/js/2.2e951658.chunk.js.LICENSE.txt": "/ipod/static/js/2.2e951658.chunk.js.LICENSE.txt",
+    "static/media/camera2.jpg": "/ipod/static/media/camera2.2f3dd8df.jpg",
+    "static/media/coldplay.jpeg": "/ipod/static/media/coldplay.3ba0e1fc.jpeg",
+    "static/media/games1.jpg": "/ipod/static/media/games1.ef638192.jpg",
+    "static/media/games3.jpg": "/ipod/static/media/games3.71668b41.jpg",
+    "static/media/settings3.jpg": "/ipod/static/media/settings3.a755d8f3.jpg",
+    "static/media/song1.png": "/ipod/static/media/song1.adbef2d1.png",
+    "static/media/songshd.jpg": "/ipod/static/media/songshd.46114d95.jpg",
+    "static/media/wallpaper1.jpg": "/ipod/static/media/wallpaper1.f0ad6859.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.59161aa3.js",
-    "static/js/2.82643220.chunk.js",
-    "static/css/main.0ba77ea8.chunk.css",
-    "static/js/main.8fb77585.chunk.js"
+    "static/js/2.2e951658.chunk.js",
+    "static/css/main.cb3fd9d6.chunk.css",
+    "static/js/main.083ed042.chunk.js"
   ]
 }
